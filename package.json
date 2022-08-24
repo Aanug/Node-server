@@ -1,0 +1,17 @@
+{
+  "name": "node-work",
+  "version": "1.0.0",
+  "description": "This is a node class",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon try.js"
+  },
+  "author": "Aanu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
